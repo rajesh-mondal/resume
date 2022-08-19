@@ -10,4 +10,11 @@
 
 *{
     font-family: 'Readex Pro';
+    line-height: 1.5em;
+    box-sizing: border-box;
+    color: var(--mainTextColor);
+}
+
+body{
+    background-color: var(--mainBgColor);
 }
