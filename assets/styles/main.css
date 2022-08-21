@@ -102,3 +102,7 @@ li{
     color: var(--mainLinkColor);
     font-size: 0.9em;
 }
+
+#qualifications--list{
+    list-style: none;
+}
