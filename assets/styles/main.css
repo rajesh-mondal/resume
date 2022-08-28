@@ -132,3 +132,10 @@ li{
     background-color: var(--mainBorderColor);
     height: 1px;
 }
+
+.card--education-history{
+    border-left: 1px solid var(--mainBorderColor);
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-left: 2em;
+}
