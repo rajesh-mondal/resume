@@ -139,3 +139,10 @@ li{
     margin-bottom: 2em;
     padding-left: 2em;
 }
+
+.card--course-history{
+    border-left: 1px solid var(--mainBorderColor);
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 2em;
+}
